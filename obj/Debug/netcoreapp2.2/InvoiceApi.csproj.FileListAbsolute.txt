@@ -1,0 +1,14 @@
+D:\Documents\Projects\invoice-api\bin\Debug\netcoreapp2.2\InvoiceApi.deps.json
+D:\Documents\Projects\invoice-api\bin\Debug\netcoreapp2.2\InvoiceApi.runtimeconfig.json
+D:\Documents\Projects\invoice-api\bin\Debug\netcoreapp2.2\InvoiceApi.runtimeconfig.dev.json
+D:\Documents\Projects\invoice-api\bin\Debug\netcoreapp2.2\InvoiceApi.dll
+D:\Documents\Projects\invoice-api\bin\Debug\netcoreapp2.2\InvoiceApi.pdb
+D:\Documents\Projects\invoice-api\obj\Debug\netcoreapp2.2\InvoiceApi.csprojAssemblyReference.cache
+D:\Documents\Projects\invoice-api\obj\Debug\netcoreapp2.2\InvoiceApi.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\invoice-api\obj\Debug\netcoreapp2.2\InvoiceApi.RazorAssemblyInfo.cache
+D:\Documents\Projects\invoice-api\obj\Debug\netcoreapp2.2\InvoiceApi.RazorAssemblyInfo.cs
+D:\Documents\Projects\invoice-api\obj\Debug\netcoreapp2.2\InvoiceApi.AssemblyInfoInputs.cache
+D:\Documents\Projects\invoice-api\obj\Debug\netcoreapp2.2\InvoiceApi.AssemblyInfo.cs
+D:\Documents\Projects\invoice-api\obj\Debug\netcoreapp2.2\InvoiceApi.RazorTargetAssemblyInfo.cache
+D:\Documents\Projects\invoice-api\obj\Debug\netcoreapp2.2\InvoiceApi.dll
+D:\Documents\Projects\invoice-api\obj\Debug\netcoreapp2.2\InvoiceApi.pdb
